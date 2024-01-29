@@ -9,7 +9,3 @@ Using the matplotlib library, the analysis covers various aspects and communicat
 
 Analysis Overview:
 The SCC Tumor Study aimed to evaluate the performance of Pymaceuticals' drug of interest, Capomulin, against other treatment regimens. Approximately 250 mice were treated with various drug regimens, and tumor development was observed over a 45-day period.
-
-
-Results
-The SCC Tumor Study provides valuable insights into the efficacy of different treatment regimens. Capomulin and Ramicane stand out as potential leading treatments, warranting further exploration and clinical trials. The study's comprehensive analysis and visualizations offer a clear understanding of the treatment landscape, aiding informed decision-making for future research and development efforts.
